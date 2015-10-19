@@ -1,0 +1,86 @@
+body{
+	width: 1100px;
+	background-image: url("image/2.jpg"); 
+	background-size:cover;
+	max-width: 95%;
+	margin: auto;
+}
+header{
+	width: 1100px;
+	height: 130px;
+	background-image: url("image/header1.jpg");
+	background-size: cover;
+	max-width: 95%;
+}
+header h1{
+
+	
+	background-color: transparent;
+	color:white;
+	font-size: 54px;
+	text-align: center;
+	margin: 0px;
+}
+header h2{
+	color:white;
+	text-align: center;
+	font-weight:normal;
+}
+header h4#En{
+	color: white;
+	display: inline-block;
+	width: 20px;
+	height: 10px;
+	padding: 2px;
+	margin: 4px;
+	position:relative;
+	top:-120px;
+	left:960px;
+
+}
+header h4#Uz{
+	color: white;
+	display: inline-block;
+	width: 20px;
+	height: 10px;
+	padding: 2px;
+	margin: 4px;
+	position:relative;
+	top:-120px;
+	left:970px;
+
+}
+ul#navMenue li{
+	list-style-type: none;
+	width:120px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	float:left;
+	margin: 0px 15px 0px 0px;
+}
+ul#navMenue a{
+	text-decoration: none;
+	display: block;
+	width: 125px;
+	height: 25px;
+	background-color: white;
+	border-radius: 10px;
+	line-height: 25px;
+
+}
+ul#navMenue li:hover a:hover{
+	background-color: green;
+
+}
+
+ h1{
+	background-color: grey;
+	clear: both;
+	display: inline-block;
+	margin: 70px 200px 50px 200px;
+	text-align: center;
+}
+p{ 
+
+}
